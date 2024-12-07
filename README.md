@@ -9,7 +9,7 @@ python raster.py
 
 ## General Summary
 Running raster.py will download the example data to your working directory and generate two plots side by side.
-The left is the sample altitude profile and the right is the map with the altitude profile cut.
+The left is the sample altitude profile and the right is the DEM tile plot with the altitude profile cut.
 
 Resulting altitude profile:
 
