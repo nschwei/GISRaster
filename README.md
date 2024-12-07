@@ -31,8 +31,8 @@ Resulting Map:
  This function will return the resulting selected band.
 
  ### plot_image
- This generates a plot containing two subplots: the plots generated above (altitude profile and DEM tile plot with the slice used in the profile).
- It takes in the band generated from open_tif, the line generated from line_altitudes, the smoothed altitudes also from line altitudes, and the line's start and end points.
+ This generates a plot containing the images above (altitude profile and DEM tile plot with the slice used in the profile).
+ It takes in the band generated from open_tif, the line generated from line_altitudes, the smoothed altitudes (also from line_altitudes), and the line's start and end points.
 
  ### line_altitudes
  This function takes the band from open_tif and the line's start and end points.
